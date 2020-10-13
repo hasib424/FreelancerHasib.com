@@ -1,0 +1,230 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+h1,h2,h3,h4,h5,h6{
+	color: #404f54;
+}
+.logo{
+	background-color: #1baba1;
+	padding: 8px 15px;
+	font-family: cursive;
+	float: left;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+}
+
+
+.job{
+	border: 2px solid #888;
+	padding: 5px 8px;
+	border-radius: 20px;
+}
+.nav-item a{
+	font-size: 13px;
+}
+.navarea{
+	overflow: hidden;
+	border-bottom: 2px solid #888;
+	box-shadow: 2px, 6px, 8px, 3px;
+}
+.row{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.row img{
+	width: 100%;
+	height: 100%;
+}
+.homepage{
+	text-align: center;
+	top: 50px;
+	left: 400px;
+	position: absolute; 
+}
+form{
+	border: 1px solid #ddd;
+	border-radius: 30px;
+}
+input[type=search]{
+	text-align: center;
+	width: 450px;
+	height: 45px;
+	border: 0px solid #ddd;
+	border-radius: 30px;
+}
+.find{
+	margin-right: 3px;
+	text-align: center;
+	color: white;
+	background-color: #d02184;
+	width: 90px;
+	height: 40px;
+	padding: 5px;
+	border: 0px solid #ddd;
+	border-radius: 25px;
+}
+.service{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.service h5{
+	width: 70%;
+	margin-top: 10px;
+}
+.service h6{
+	color: #1baba1;
+	margin-bottom: 15px;
+}
+.service p{
+	color: #889294;
+	width: 100%;
+	height: 50%;
+	line-height: 20px;
+}
+.allstatus{
+	background-color:  #f4fafa;
+	margin-top: 50px;
+}
+.status{
+	padding: 80px;
+	margin-left: 50px;
+}
+.status h4{
+	margin-bottom: 30px;
+}
+.readmore{
+	color: #1baba1;
+}
+.pool{
+	text-align: center;
+	padding: 10px;
+}
+.allfield{
+	padding: 50px;
+}
+.field img{
+	margin-bottom: 8px;
+	padding: 2px;
+	border: 1px solid #888;
+	transition: 0.5s;
+}
+.field img:hover{
+	cursor: pointer;
+	margin-top: -1px;
+	box-shadow: 5px 3px 5px 3px #ddd;
+}
+.cat{
+	left: 450px;
+	bottom: -25px;
+	position: relative;
+	text-align: center;
+	color: white;
+	background-color: #d02184;
+	width: 150px;
+	height: 40px;
+	padding: 5px;
+	border: 0px solid #ddd;
+	border-radius: 25px;
+}
+.idea{
+	background-color:  #f4fafa;
+	padding: 50px;
+}
+.hiw{
+	text-align: center;
+	padding: 10px;
+}
+.idea img{
+	margin-bottom: 8px;
+	padding: 2px;
+	border: 1px solid #888;
+	transition: 0.5s;
+}
+.idea img:hover{
+	cursor: pointer;
+	margin-top: -1px;
+	box-shadow: 5px 3px 5px 3px #ddd;
+}
+.plan{
+	padding: 50px;
+}
+.plan img{
+	margin-bottom: 8px;
+	border: 0px solid #888;
+	transition: 0.5s;
+}
+.plan img:hover{
+	cursor: pointer;
+	margin-top: -1px;
+	box-shadow: 5px 3px 5px 3px #ddd;
+}
+.footer{
+	padding: 50px;
+}
+.blog img{
+	width: 130px;
+	height: 90px;
+}
+.insta img{
+	width: 250px;
+	height: 320px;
+}
+.blogs{
+	border-bottom: 1px solid #ddd;
+}
+.footer{
+	background-color: #333;
+	color: #ddd;
+}
+.footer form{
+	border: 1px solid #ddd;
+	border-radius: 5px;
+}
+.footer input[type=search]{
+	text-align: center;
+	width: 190px;
+	height: 35px;
+	border: 1px solid #ddd;
+	border-radius: 1px;
+}
+.subscription a .fa-facebook{
+	color: #149FF9;
+	font-size: 30px;
+	margin-right: 5px;
+}
+.subscription a .fa-twitter{
+	color: #11C1FF;
+	font-size: 30px;
+	margin-right: 5px;
+}
+.subscription a .fa-instagram{
+	color: #F02D87;
+	font-size: 30px;
+	margin-right: 5px;
+}
+.subscription a .fa-dribbble{
+	color: #F2279A;
+	font-size: 30px;
+	margin-right: 5px;
+}
+.subscription a .fa-youtube{
+	color: #D31C1F;
+	font-size: 30px;
+	margin-right: 5px;
+}
+.subs{
+	text-align: center;
+	color: white;
+	background-color: #d02184;
+	width: 97px;
+	height: 35px;
+	padding: 5px;
+	border: 1px solid #ddd;
+	border-radius: 1px;
+}
+.rights{
+	margin-left: 500px;
+}
+
